@@ -169,3 +169,5 @@ Nu kan du se att `uppdatera spelet` och `rita ut spelet` skrivs ut i konsolen he
 Nu har vi skapat en grundläggande spelmotor som kan rita ut på canvas. Vi har också skapat en loop som körs hela tiden och uppdaterar och ritar ut spelet. Vi har också skapat en klass som heter `Game` som hanterar spelet.
 
 Nu kan vi börja bygga!
+
+För att gå vidare till nästa steg så behöver du byta branch till `2-` och läsa vidare i [docs/2-]().
